@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body{
+    background-image: url(/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg);
+    background-color: blueviolet;
+    background-size: 1440px;
+}
+div a{
+    text-decoration: none;
+    color: white;
+    padding: 22px;
+    opacity: 0.7;
+    font-size: 23px;
+}
+.anchor{
+    margin-left: 44%;
+    margin-top: -43px;
+}
+div a:hover{
+    text-decoration: underline;
+    opacity: 1;
+}
+.body{
+    display: flex;
+}
+.img{
+    margin-top: 45px;
+    margin-left: 25px;
+}
+.note{
+    width: 37%;
+    margin-left: 75px;
+    margin-top: 55px;
+    color: white;
+}
+h3{
+    font-size: 45px;
+    font: 600;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 20px;
+    margin-top: -25px;
+    font-family: 'Poppins', sans-serif;
+}
+button{
+    width: 140px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    color: #8a2be2;
+}
+button:hover{
+    color: white;
+    background-color: #e452d2;
+    cursor: pointer;
+}
+.Facebook{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    margin-left: 80%;
+}
+.one{
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 40px;
+    width: 40px;
+}
